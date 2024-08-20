@@ -9,14 +9,14 @@ global.setting = {
  }
 
 global.owner = [
-['212717457920', 'Nour', true],
-['212605784394', 'silana', false],
+['212670941551', 'Omar', true],
+//['212670941551', 'silana', false],
 ['', '', false]
 ]
 
 global.info = {
- nomerbot: '212605784394',
- pairingNumber: '212693227969',
+ nomerbot: '212670941551',
+ pairingNumber: '212670941551',
  nameown: 'Nour',
  nomerown: '212717457920',
  packname: 'sticker by ',
@@ -48,7 +48,7 @@ global.media = {
 global.url = {
  sig: 'https://instagram.com/noureddine_ouafy',
  sgh:  'https://github.com/noureddineouafy',
- sgc: 'https://chat.whatsapp.com/DABxracGsi5CQMd5d1N1j7'
+ sgc: 'https://www.instagram.com/nvm2p'
 }
 
 global.wait =` انتظر .. أنا أحاول تلبية طلبك ...`
